@@ -1,8 +1,34 @@
 #startbutton {
-    color: #ff66a3;
+    color: #44d7a8;
     font-size: 85px;
 }
 
 #start {
     text-align: center;
 }
+
+body {
+    background-image: url("https://app.meetsoci.com/uploads/account/1585/sqUDY-2MP2M.png");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    text-align: center;
+    
+}
+
+#quiz-here {
+    background-color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    width: 960px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
